@@ -1,2 +1,0 @@
-# weam-portfolio
-my portfolio
